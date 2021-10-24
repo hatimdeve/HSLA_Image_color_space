@@ -417,7 +417,7 @@ void Spotlight::changeSpotPoint(int cX, int cY)
 
 Out Team - [AIT EL KADI Ilyas](https://github.com/IlyasKadi) - [AZIZ Oussama](https://github.com/ATAMAN0)
 
-Project Link: [https://github.com/IlyasKadi/HSLA-Image-color-space](https://github.com/IlyasKadi/HSLA-Image-color-space)
+Project Link: [https://github.com/IlyasKadi/HSLA_Image_color_space](https://github.com/IlyasKadi/HSLA_Image_color_space)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
