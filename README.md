@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/logo.png" alt="Logo" width="400" height="360">
+    <img src="images/logo.png" alt="Logo" width="500" height="360">
   <h2 align="center">HSLA Image color space</h2>
   <h3 align="center">Applying inheritance knowledge to manipulate HSLa images</h3>
 </div>
