@@ -53,7 +53,7 @@ To get a local copy up and running follow these simple example steps.
 1. [**How to install Qt**](https://anassbelcaid.github.io/CS221/qtcreator/)
 2. **Clone the repo**
    ```sh
-   git clone https://github.com/IlyasKadi/HSLA-Image-color-space.git
+   git clone https://github.com/IlyasKadi/HSLA_Image_color_space
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
